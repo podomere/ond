@@ -5,6 +5,8 @@ title: Designs Main Page
 
 # Current Designs
 
+{{ site.categories.designs }}
+
 <ul>
   {% for page in site.categories.designs %}
     <li>
