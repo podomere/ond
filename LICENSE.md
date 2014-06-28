@@ -17,7 +17,7 @@ content. From here on all content, data, intellectual property and information
 that can be and is represented or recorded by language, symbols, symbolic logic, 
 or symbolic reference shall be referable to as Software for the purposes of and 
 applicability to CC0 1.0 Universal Public Domain Declaration
-[https://creativecommons.org/publicdomain/zero/1.0/] Please add the CC0 icon
+[https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/) Please add the CC0 icon
 to all your drawings and images.
 
 All employees, agents, contractors, and contributors are still bound to protect 
