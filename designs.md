@@ -7,12 +7,12 @@ title: Main Design Index Page
 
 <ul>
 {% for page in site.pages %}	
-{% for tag in page.tags %}
-{% if tag == 'designs' %}
-<li><a href="{{page.url}}">{{page.title}}</a> {{page.excerpt}}</li>
-	{% endif %}
-	{% endfor %}
-	{% endfor %}
+  {% for tag in page.tags %}
+    {% if tag == 'designs' %}
+<li><a href="{{page.url}}">{{page.title}}</a> {{page.excerpt}}< {{page.date}}</li>
+    {% endif %}
+  {% endfor %}
+{% endfor %}
 </ul>
 
 # License
