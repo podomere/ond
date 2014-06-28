@@ -1,3 +1,8 @@
+---
+layout: default
+title: Readme and About
+---
+
 # Open Network Design
 
 Repository for FLOSS network, systems, and infrastructure related designs. 
