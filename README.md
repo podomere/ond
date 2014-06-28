@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Readme and About
+title: Readme
 ---
 
 # Open Network Design
