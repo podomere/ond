@@ -1,4 +1,3 @@
 name: OND
 auto: true
-markdown: kramdown
 pygments: true
