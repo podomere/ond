@@ -6,7 +6,7 @@ title: Designs Main Page
 # Current Designs
 
 <ul>
-  {% for page in site.pages %}
+  {% for page in site.categories.CATEGORY %}
     <li>
       <a href="{{ page.url }}">{{ page.title }}</a>
     </li>
