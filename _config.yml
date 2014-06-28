@@ -2,3 +2,4 @@ name: OND
 markdown: kramdown
 auto: true
 pygments: true
+baseurl: ond.podome.re
