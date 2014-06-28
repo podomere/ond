@@ -7,6 +7,10 @@ title: Designs Main Page
 
 {{ site.categories.designs }}
 
+Pages
+
+{{site.pages}}
+
 <ul>
   {% for page in site.categories.designs %}
     <li>
