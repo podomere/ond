@@ -1,1 +1,4 @@
-markdown: kramdown
+name: OND
+markdown: redcarpet
+pygments: true
+baseurl: /ond
