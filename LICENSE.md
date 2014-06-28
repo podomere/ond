@@ -10,8 +10,7 @@ title: Universal Public Domain License
 ## Rationale
 
 We want to do for network design and implementation what **FLOSS** 
-[http://en.wikipedia.org/wiki/Alternative_terms_for_free_software] has done 
-for the software community.
+[http://en.wikipedia.org/wiki/Alternative_terms_for_free_software](http://en.wikipedia.org/wiki/Alternative_terms_for_free_software) has done for the software community.
 
 This license applies recursively from this root node down through all forms of 
 content. From here on all content, data, intellectual property and information 
@@ -55,4 +54,4 @@ When using or citing the work, you should not imply endorsement by the author or
 affirmer.
 
 For more information, please refer to:
-https://creativecommons.org/publicdomain/zero/1.0/legalcode
+[https://creativecommons.org/publicdomain/zero/1.0/legalcode]([https://creativecommons.org/publicdomain/zero/1.0/legalcode)
