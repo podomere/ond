@@ -8,6 +8,9 @@ title: Main Design Index Page
 
 {{site.tags.designs}}
 
+{% main_cat_page = site.pages.select { |p| p.name == /ond/} %}
+{{main_cat_page}}
+
 
 <ul>
 {% assign sorted_pages = site.pages | sort:"name" %}
