@@ -3,7 +3,10 @@ layout: default
 title: Universal Public Domain License
 ---
 
-# Rationale
+---
+# LICENSE
+
+## Rationale
 
 We want to do for network design and implementation what **FLOSS** 
 [http://en.wikipedia.org/wiki/Alternative_terms_for_free_software] has done 
@@ -31,7 +34,7 @@ Confidence requirements or restrictions). Anything committed to this repository
 becomes part of the **Public Domain** so do not taint this ethos and please 
 remember that everything commited waives **all** copyright and attribution.
 
-# CC0 1.0 Universal Public Domain Declaration
+## CC0 1.0 Universal Public Domain Declaration
 
 The person who associated a work with this deed has dedicated the work to the 
 Public Domain by waiving all of his or her rights to the work worldwide under 
