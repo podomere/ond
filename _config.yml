@@ -1,4 +1,4 @@
 name: OND
+auto: true
 markdown: redcarpet
 pygments: true
-baseurl: /ond
