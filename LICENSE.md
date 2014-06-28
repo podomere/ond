@@ -5,7 +5,7 @@ title: Universal Public Domain License
 
 ---
 
-# OPEN NETWORK DESIGN LICENSE
+# OND LICENSE
 
 ## Rationale
 
