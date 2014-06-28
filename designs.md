@@ -9,7 +9,7 @@ title: Main Design Index Page
 {% for page in site.pages %}	
   {% for tag in page.tags %}
     {% if tag == 'designs' %}
-<li><a href="{{page.url}}">{{page.title}}</a> {{page.excerpt}}< {{page.date}}</li>
+<li><a href="{{page.url}}">{{page.title}}</a> "{{page.excerpt}}" {{page.date}}</li>
     {% endif %}
   {% endfor %}
 {% endfor %}
