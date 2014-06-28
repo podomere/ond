@@ -8,8 +8,8 @@ title: Main Design Index Page
 
 {{site.tags.designs}}
 
-{% main_cat_page = site.pages.select { |p| p.name == /ond/} %}
-{{main_cat_page}}
+Post Tags
+{{post.tags}}
 
 
 <ul>
