@@ -5,12 +5,10 @@ title: Designs Main Page
 
 # Current Designs
 
-{{ site.pages }}
-
 <ul>
-  {% for post in site.posts %}
+  {% for page in site.pages %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ page.url }}">{{ page.title }}</a>
     </li>
   {% endfor %}
 </ul>
