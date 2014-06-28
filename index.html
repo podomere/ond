@@ -50,6 +50,14 @@ $ git checkout gh-pages
 <li><a href="ond-00002.html">ond-00002</a> "Application Awareness, Shaping, and Queuing"</li>
 </ul>
 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 <strong>Note:</strong> All designs are in <a href="https://help.github.com/articles/github-flavored-markdown">GitHub Flavoured Markdown</a></p>
 
 <h3>
