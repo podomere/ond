@@ -1,3 +1,8 @@
+---
+layout: default
+title: Universal Public Domain License
+---
+
 **Rationale:** We want to do for network design and implementation what **FLOSS** 
 [http://en.wikipedia.org/wiki/Alternative_terms_for_free_software] has done 
 for the software community.
