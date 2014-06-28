@@ -3,7 +3,7 @@ layout: default
 title: Readme
 ---
 
-# Open Network Design
+# README
 
 Repository for FLOSS network, systems, and infrastructure related designs. 
 
