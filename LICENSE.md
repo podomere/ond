@@ -21,9 +21,10 @@ applicability to CC0 1.0 Universal Public Domain Declaration
 to all your drawings and images.
 
 All employees, agents, contractors, and contributors are still bound to protect 
-the confidentiality and integrity of their own clients or agents data and 
-intellectual property in a professional and ethical way including adhering to the 
-laws, regulations, and statutes applicable in said territories or situations.
+the confidentiality and integrity of their own clients and agents data including
+their intellectual property in an ethical and integral way including adhering to 
+the laws, regulations, and statutes applicable in applicable territories, 
+situations, and circumstances.
 
 Please continue to protect any form of originating organisational copyright 
 including but not limited to; trade secrets, processes, products, services, 
