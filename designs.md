@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Designs Main Page
+title: Main Design Index Page
 ---
 
 # Current Designs
