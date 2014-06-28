@@ -6,7 +6,7 @@ title: Main Design Index Page
 # Current Designs
 
 
-{{site.tags.designs.size}}
+{{site.pages.tags.designs.size}}
 
 
 <ul>
