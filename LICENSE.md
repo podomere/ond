@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Universal Public Domain License
+description: Open Network Design License putting all works in the Public Domain
 ---
 
 ---
