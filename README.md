@@ -35,5 +35,5 @@ As always, please share, comment, contribute in a helpful manner where critiscis
 
 ## License 
 
-Please see the associated __LICENSE.md__ file in this directory which outlines more about the CC0 1.0 Universal (CC0 1.0) 
+Please see the associated [LICENSE.md](LICENSE.md) file in this directory which outlines more about the CC0 1.0 Universal (CC0 1.0) 
 Public Domain Dedication [https://creativecommons.org/publicdomain/zero/1.0/](http://github.github.com/github-flavored-markdown/)
