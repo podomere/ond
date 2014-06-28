@@ -4,6 +4,7 @@ title: Universal Public Domain License
 ---
 
 ---
+
 # LICENSE
 
 ## Rationale
