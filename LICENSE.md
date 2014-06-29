@@ -6,36 +6,34 @@ description: Open Network Design License putting all works in the Public Domain
 
 ---
 
-# OND LICENSE
+# OND Applied CC0 LICENSE
 
-## Rationale
+## Overview and Rationale
 
 We want to do for network design and implementation what **FLOSS** 
 [http://en.wikipedia.org/wiki/Alternative_terms_for_free_software](http://en.wikipedia.org/wiki/Alternative_terms_for_free_software) has done for the software community.
 
-This license applies recursively from this root node down through all forms of 
-content. From here on all content, data, intellectual property and information 
-that can be and is represented or recorded by language, symbols, symbolic logic, 
-or symbolic reference shall be referable to as Software for the purposes of and 
-applicability to CC0 1.0 Universal Public Domain Declaration
-[https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/) Please add the CC0 icon
-to all your drawings and images.
+This CC0 license applies recursively from this root node down through all forms of 
+content. Henceforthwith all content, data, and information that can be and is 
+represented or recorded by written language, symbols, symbolic logic, or symbolic 
+reference in this OND repository shall be subject to the CC0 1.0 Universal Public 
+Domain Declaration
+[https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/) 
+Please add the CC0 icon to all your drawings and images commited.
 
 All employees, agents, contractors, and contributors are still bound to protect 
 the confidentiality and integrity of their own clients and agents data including
-their intellectual property in an ethical and integral way including adhering to 
-the laws, regulations, and statutes applicable in applicable territories, 
-situations, and circumstances.
-
-Please continue to protect any form of originating organisational copyright 
-including but not limited to; trade secrets, processes, products, services, 
-know-how, invention, or any other form of intellectual property, unless you 
-have the authority to freely share and deicate to the Public Domain (such that 
-this repository does **not** impinge upon any original author's license (without 
-their full consent and understanding), Company Confidential, or any Commercial in 
-Confidence requirements or restrictions). Anything committed to this repository 
-becomes part of the **Public Domain** so do not taint this ethos and please 
-remember that everything commited waives **all** copyright and attribution.
+their respective intellectual property in an ethical and integral way (including 
+adhering to the laws, regulations, and statutes applicable in applicable territories, 
+situations, and circumstances). Please continue to protect any form of originating 
+organisational copyright including but not limited to; trade secrets, processes, 
+products, services, know-how, invention, or any other form of intellectual property, 
+unless you have the authority to freely share and dedicate it to the Public Domain 
+(such that this repository does **not** impinge upon any original author's license 
+(without their full consent and understanding), Company Confidential, or any 
+Commercial in Confidence requirements or restrictions). Anything committed to this 
+repository becomes part of the **Public Domain** so do not taint this ethos and 
+please remember that everything commited waives **all** copyright and attribution.
 
 ## CC0 1.0 Universal Public Domain Declaration
 
