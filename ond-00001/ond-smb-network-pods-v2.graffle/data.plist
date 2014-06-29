@@ -36,7 +36,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2014-06-29 10:53:56 +0000</string>
+	<string>2014-06-29 17:38:23 +0000</string>
 	<key>Modifier</key>
 	<string>laptop</string>
 	<key>NotesVisible</key>
@@ -1337,7 +1337,7 @@ Device made up of 2+ physical devices}</string>
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\b\fs48 \cf0 D\sub 3}</string>
+\f0\b\fs48 \cf0 A\sub 3}</string>
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
@@ -1385,7 +1385,7 @@ Device made up of 2+ physical devices}</string>
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\b\fs48 \cf0 D\sub 2}</string>
+\f0\b\fs48 \cf0 A\sub 2}</string>
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
@@ -1433,7 +1433,7 @@ Device made up of 2+ physical devices}</string>
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\b\fs48 \cf0 D\sub 1}</string>
+\f0\b\fs48 \cf0 A\sub 1}</string>
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
@@ -1481,7 +1481,7 @@ Device made up of 2+ physical devices}</string>
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\b\fs48 \cf0 D}</string>
+\f0\b\fs48 \cf0 A}</string>
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
@@ -1529,7 +1529,7 @@ Device made up of 2+ physical devices}</string>
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\b\fs48 \cf0 C\sub 3}</string>
+\f0\b\fs48 \cf0 B\sub 3}</string>
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
@@ -1577,7 +1577,7 @@ Device made up of 2+ physical devices}</string>
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\b\fs48 \cf0 C\sub 2}</string>
+\f0\b\fs48 \cf0 B\sub 2}</string>
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
@@ -1625,7 +1625,7 @@ Device made up of 2+ physical devices}</string>
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\b\fs48 \cf0 C\sub 1}</string>
+\f0\b\fs48 \cf0 B\sub 1}</string>
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
@@ -1673,7 +1673,7 @@ Device made up of 2+ physical devices}</string>
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\b\fs48 \cf0 C}</string>
+\f0\b\fs48 \cf0 B}</string>
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
@@ -1787,7 +1787,7 @@ Wireless Access\
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\b\fs48 \cf0 B\sub 3}</string>
+\f0\b\fs48 \cf0 C\sub 3}</string>
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
@@ -1835,7 +1835,7 @@ Wireless Access\
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\b\fs48 \cf0 B\sub 2}</string>
+\f0\b\fs48 \cf0 C\sub 2}</string>
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
@@ -1883,7 +1883,7 @@ Wireless Access\
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\b\fs48 \cf0 B\sub 1}</string>
+\f0\b\fs48 \cf0 C\sub 1}</string>
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
@@ -1931,7 +1931,7 @@ Wireless Access\
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\b\fs48 \cf0 B}</string>
+\f0\b\fs48 \cf0 C}</string>
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
@@ -1979,7 +1979,7 @@ Wireless Access\
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\b\fs48 \cf0 A}</string>
+\f0\b\fs48 \cf0 D}</string>
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
