@@ -16,7 +16,7 @@ Please use basic markdown (including GFM(Github Flavoured Markdown) [http://gith
 
 ## Dynamic Page Generation
 
-All that is required is to create a design named "ond-0000X.md" in markdown such that the index 'x' is not taken already and then submit a git pull request with your file(s). Your .md file once created with the following additional few lines of headers:
+All that is required is to create a directory "ond-0000X" and associated design named "ond-0000X.md" in markdown format (such that the index 'x' is not taken already) and then submit a git pull request with your file(s). Your .md file once created with the following additional few lines of headers:
 
     --- 
     layout: default 

@@ -9,7 +9,10 @@ title: Main Design Index Page
 {% for page in site.pages %}	
   {% for tag in page.tags %}
     {% if tag == 'designs' %}
-<li><a href="{{page.url}}">{{page.title}}</a> ({{page.description}})</li>
+    	{% assign sorted_pages = sort:"name" %}
+			{% for node in sorted_pages %}
+				<li><a href="{{node.url}}">{{node.title}}</a> ({{node.description}})</li>
+			{% endfor %}		
     {% endif %}
   {% endfor %}
 {% endfor %}
