@@ -6,9 +6,11 @@ description: Detailed explanation of the goals and methods of this project.
 
 ---
 
-## What and Why?
+## About
 
 This is a project to help individuals and organisations quickly design and build network platforms. The designs should focus on known good patterns and seek to facilitate decision making in relation to design choices, purchasing, and a range of implementation considerations (including actual the actual configurations themselves). These design documents can be a mix or even a subset of any of the traditional discrete design or project documents. You may notice business requirements, technical requirements, solution architectures, high level designs, low level designs, and 'as built' guides to name a few, however this is entirely intentional as we seek to provide practical, useful, and concise information. Rather than generate [ITIL](http://www.itil-officialsite.com/AboutITIL/WhatisITIL.aspx) shelfware or [OpenGroup TOGAF](http://www.opengroup.org/togaf/) certifiable frameworks, we decided to pare things back to provide open and relevant recipes, patterns, and supporting artefacts (and code) for organisations to accelerate decision making, build stuff, and get things done.
+
+## Why?
 
 The overall goal however is to catalyse community sharing and accelerated access to free and open data network designs and patterns whilst also empowering groups to contribute back to or help one another easily. Reliable network platforms themselves help communities achieve the best quality access to information and services, and are the foundational underpinning of the experience many of us take for granted. Not all individuals or groups have the same resources or experience thus making a repository such as this free and open will hopefully give anyone and everyone a kick start. (..and perhaps they can then save some additional money and time which can be allocated elsewhere or used to finish that last 20% that rarely gets finessed or polished!)
 
