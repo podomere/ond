@@ -2,6 +2,7 @@
 layout: default
 title: About this Project
 description: Detailed explanation of the goals and methods of this project.
+
 ---
 
 ---
