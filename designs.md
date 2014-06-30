@@ -6,7 +6,9 @@ title: Main Design Index Page
 # Current Designs
 
 <ul>
-{% for page in site.pages %}	
+
+{% assign sorted_pages = site.pages | sort:"name" %}
+{% for page in sorted_pages %}	
   {% for tag in page.tags %}
     {% if tag == 'design' %}
 		<li><a href="{{page.url}}">{{page.title}}</a> ({{page.description}})</li>	{% endif %}
