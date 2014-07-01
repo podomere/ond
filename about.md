@@ -2,6 +2,8 @@
 layout: default
 title: About this Project
 description: Detailed explanation of the goals and methods of this project.
+tag: info
+type: info
 
 ---
 
@@ -21,6 +23,16 @@ From discrete web articles and blogs, to all the network operator groups globall
 
 If we can help to cut out the 'fat' normally found in proprietary and closed system integration documentation whilst uncovering some of the tacit knowledge for a few small projects (be they non-profit, commercial, or otherwise) we will have succeeded. The intent is to share these patterns and recipes far and wide via the FLOSS (Free/Libre/Open Source Software) ethos and toolsets by capturing patterns and making them easily available to be forked, remixed of shared for the common good. 
 
-### A Final Note on Risk
+## A Note on Risk
 
 As network platforms underpin all digital connectivity (and also accepting that risk is a factor of dependence), one must then conclude that networks pose one of the greatest risks to organisations that rely upon digital fabrics and digital services to operate. Irrespective of vulnerabilities and differing threat actors, there is still room for huge improvement in how networks are designed, built, operated, and continually improved upon. Whether a network is open or closed, contains a large population or not, all networks are subject to entropy countered only by ectropy.
+
+
+## Reminder
+
+As always, please share, comment, contribute in a helpful manner where critiscism is constructive. Collaboration and community is key. Energy flows.
+
+## License 
+
+Please see the associated [LICENSE.html](LICENSE.html) file in this directory which outlines more about the CC0 1.0 Universal (CC0 1.0) 
+Public Domain Dedication [https://creativecommons.org/publicdomain/zero/1.0/](http://github.github.com/github-flavored-markdown/)
