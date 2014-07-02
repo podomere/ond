@@ -25,7 +25,7 @@ If we can help to cut out the 'fat' normally found in proprietary and closed sys
 
 ## A Note on Risk
 
-As network platforms underpin all digital connectivity (and also accepting that risk is a factor of dependence), one must then conclude that networks pose one of the greatest risks to organisations that rely upon digital fabrics and digital services to operate. Irrespective of vulnerabilities and differing threat actors, there is still room for huge improvement in how networks are designed, built, operated, and continually improved upon. Whether a network is open or closed, contains a large population or not, all networks are subject to entropy countered only by ectropy.
+As network platforms underpin all digital connectivity (and also accepting that risk is a factor of dependence), one must then conclude that networks pose one of the greatest risks to organisations that rely upon digital fabrics and digital services to operate. Irrespective of vulnerabilities and differing threat actors, there is still room for huge improvement in how networks are designed, built, operated, and continually improved upon. Whether a network is open or closed, contains a large population or not, all networks are subject to entropy (countered only by ectropy).
 
 
 ## Reminder
