@@ -55,4 +55,4 @@ When using or citing the work, you should not imply endorsement by the author or
 affirmer.
 
 For more information, please refer to:
-[https://creativecommons.org/publicdomain/zero/1.0/legalcode]([https://creativecommons.org/publicdomain/zero/1.0/legalcode)
+[https://creativecommons.org/publicdomain/zero/1.0/legalcode](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
