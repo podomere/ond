@@ -1,6 +1,11 @@
 ---
 layout: default
 title: Main Design Index Page
+description: Summary Design Page
+tags: design
+type: design
+author: Donal O Duibhir, 2014, @irldexter @donalod
+
 ---
 
 # Current Designs
@@ -18,8 +23,8 @@ title: Main Design Index Page
 
 # License
 
-* [http://ond.podome.re/LICENSE.html](http://ond.podome.re/LICENSE.html)
+* [http://opennetworkdesign.com/LICENSE.html](http://opennetworkdesign.com/LICENSE.html)
 
 # Readme
 
-* [http://ond.podome.re/README.html](http://ond.podome.re/README.html)
+* [http://opennetworkdesign.com/README.html](http://opennetworkdesign.com/README.html)
