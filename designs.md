@@ -2,7 +2,7 @@
 layout: default
 title: Main Design Index Page
 description: Summary Design Page
-tags: design
+tags: designlist
 type: design
 author: Donal O Duibhir, 2014, @irldexter @donalod
 
