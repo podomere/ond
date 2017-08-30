@@ -1,0 +1,139 @@
+Business Requirements
+
+B.001	Capable of supporting from between three hundred (300) to fifteen thousand (15000) users per campus location	M
+B.002	Capable of supporting up to eight (8) <org> campus buildings, with up to fifty (50) IDFs	M
+B.003	Core platform to be capable of providing operational network capacity for maximum campus occupancy on day of installation	M
+B.004	Capable of providing 99.999% business hours network availability 	M
+B.005	Capable of supporting all network connectivity for the next three (3) years before needing refresh	M
+B.006	Maintain a standard and consistent network infrastructure across all campus sites 	M
+B.007	Modular scalable design capable of easily adding new floors, or sites	M
+B.008	Capable of providing appropriate network bandwidth to meet business IP (Internet Protocol) service growth of up to 23% per year growth CAGR (Compound Annual Growth Rate).	M
+B.009	Capable of providing appropriate network transport to all <org> services and applications	M
+B.010	Capable of providing appropriate network access to high, and very high density user areas	M
+B.011	Capable of providing ubiquitous, and reliable voice and video transport across the entire campus network footprint	M
+B.012	Capable of allowing <org> users to ‘Work From Anywhere’ and Belong Anywhere within the work spaces	M
+B.013	Capable of providing priority network transport based on table three (3)	M
+B.014	Wi-Fi data shall be used to gain insight into real-time end-user behavior while within Wireless Network coverage	M
+B.015	No Satellite Locations Shall Support more than three thousand (3000) users	M
+
+General Requirements (For Network Design)
+
+G.001	Provide a single Network Architecture standard to be used at all planned and future <org> campus locations 	M
+G.002	Should be optimized around a per campus shared services model	M
+G.003	Should allow for automatic failover of shared services within the campus	M
+G.004	Minimize failure domains where appropriate	M
+G.005	Provide for efficient remote monitoring, management, and administration	M
+G.006	Favor simple solutions over monolithic complicated ones	M
+G.007	Favor proven <org> hardware manufacturers 	M
+G.008	Provide appropriate and reliable connectivity to all defined campus users	M
+G.009	Provide appropriate and reliable transport to regional <org> Data Centers and Internet	M
+G.010	Provide unique IPv4 and IPv6 address schemas and allocations capable of summarization per campus 	M
+G.011	Favor modular and pod based reusable service block designs	M
+G.012	Capable of supporting back-up and user laptop replication traffic from campus to Data Center via WAN or Internet Connection	M
+G.013	Capable of supporting facilities device network (Card Readers, IP Cameras, DVRs, and HVAC) access and performance requirements	M
+G.014	Capable of providing multiple logical network zones with appropriate policy enforced interconnections	M
+G.015	Internet connectivity should not be affected by any single link or device or node failure 	M
+G.016	WAN connectivity should not be affected by a any single link or device or node failure 	M
+G.017	Multicast traffic shall be supported across the entire campus	M
+G.018	Traffic flows shall be capable of identification and classification for both policy enforcement and end-to-end QoS.	M
+G.019	Wired network access of up to 1 Gbps 	M
+G.020	Capable of supporting dedicated modular on site core services blocks	M
+G.021	Capable of supporting dedicated modular Unified Communications blocks 	M
+G.022	Wireless network access of no less than 18 Mbps and up to 1.3 Gbps 	M
+G.023	Capable of terminating inbound voice and video connection in a modular secure zone 	M
+G.024	Automatic and fast routing convergence in the event of any layer 3 link failure	M
+G.025	Capable of partial or complete redistribution of routing tables between routing protocols 	M
+G.026	Routing design should minimize routing protocol convergence time	M
+G.027	Failover between links in less than 1 second 	M
+G.028	End-to-End campus network jitter of less than 10 ms	M
+G.029	End-to-End campus latency of less than 30 ms	M
+G.030	End-to-End campus packet loss of less than 0.5%	M
+G.031	Provide user density appropriate wireless coverage in all work areas	M
+G.032	Capable of automatic network device discovery	D
+G.033	Capable of providing core Network Services for 120 minutes when campus power fails	M
+G.034	Provide appropriate PoE from access devices	M
+G.035	Must support IPv4 and IPv6 on the same device	M
+G.036	All devices must be capable of real-time monitoring, event monitoring, failure detection, and event notification 	M
+G.037	Each IDF and MDF will have their own dedicated UPS to facilitate distributed fault tolerance and longer run times.	M
+G.038	Contact Center (Customer Experience) supporting sites will be provisioned with generators for 8 hour runtimes and automatic failover from UPS	M
+G.039	Campus traffic shall be optimized primarily for north south (and not east-west traffic) with the exception of local core, building, and security services.	M
+G.040	Wireless network will support Voice over Wi-Fi	M
+G.041	Wireless network will support bi-directional video conferencing	M
+G.042	Wireless network will support seamless roaming 	M
+G.043	Wireless network will support Location Based Services 	M
+G.044	Network can utilize lower cost links for less critical data automatically	M
+G.045	Network Element Management System (NEMS) shall recover automatically in the event power cycle	M
+G.046	NEMS shall participate in Central configuration management	M
+G.047	NEMS shall be proactively managed and monitored based on operational requirements	M
+G.048	No IDF shall support more than 1000 user ports	M
+G.049	No IDF shall contain more than two (2) user switch stakes	M
+G.050	NEMS shall participate in <org> Software and Hardware Lifecycle management 	M
+G.051	NEMS shall participate in <org> logical and physical Asset Management	M
+G.052	Cisco Discovery Protocol (CDP) must be enabled on Access Layer Devices	M
+G.053	Architecture must easily support future transition into port level security	M
+G.054	All WAN and Internet Connectivity required N+1 redundancy 	M
+G.055	All Wired Access Ports will provide UPoE	M
+G.056	Anycast should be supported across all Network Devices	M
+G.057	Ability to assign a user to a predetermined VLAN and subnet based on User Authentication	M
+G.058	Cisco Netflow must be enabled on Core Devices	M
+G.059	Cisco Network Based Application Recognition (NBAR) must be enabled on Core Devices	M
+G.060	Cisco Application Visibility and Control (AVC) must be enabled on Core Devices	M
+
+Security Requirements
+
+S.001	Capable of enforcing both network and application layer security policies	M
+S.002	NEMS shall adhere to vendor and cisecurity.org best practice security configurations	M
+S.003	Data, control, management control plane, shall be configured appropriately to minimize failure domains	M
+S.004	NEMS shall securely log data and management plane events and state changes, both locally and remotely	M
+S.005	Local accounts created on the NEMS must be a unique id, not shared, and traceable back to a user identity.	D
+S.006	Provide deterministic threat detection at gateways	M
+S.007	No plain text management data plane protocols shall be used to administer devices	M
+S.008	All NEMS credentials shall adhere to <org> credentials security policy	M
+S.009	Capable of secure data transit on egress across primary trust boundaries	M
+S.010	All NEMS administrative sessions shall adhere to <org> security policy	M
+S.011	Support a minimum of six primary trust boundary zones	M
+S.012	Capable of denying any connectivity between zones or devices	M
+S.013	Support full packet capture on any link via in-path appliance, fiber tap, or span port	M
+S.014	Capable of automated defensive posture when required 	M
+S.015	Design should limit common mode failures, storms, and any networking resource monopolization	M
+S.016	All <org> network edge infrastructure devices shall support port based authentication 	M
+S.017	All guest network connectivity access requires authentication	M
+S.018	All guest network traffic must be logically separated from <org> traffic and prevented from adversely affecting employee traffic	M
+S.019	All guest network traffic must be limited to Internet access only 	M
+S.019	All NEMS shall be capable of centralized AAA (Authentication, Authorization, and Accounting) when network connectivity is present	M
+S.020	All NEMS shall be capable of authentication when no network connectivity 	M
+S.021	All network devices must support RBAC (Role Based Access Control) and will be configured for ‘Least Privilege’.	M
+S.022	All network device configurations shall be accessible to administrators and security personnel for daily analysis 	M
+S.023	All network devices shall minimize attack surface	M
+S.024	Changes to Internet Access aggregation should not impact voice traffic 	
+S.025	All policy enforcement devices will be configured to allow traffic flows or connections by configured exception only (Defense-in-Depth and Secure-Default)	M
+S.026	All wireless network traffic shall be encrypted 	M
+S.027	All guest wireless network users should not be able to directly communicate with each other	M
+S.028	Wireless network should provide real-time monitoring of radio spectrum, with notification of anomalous events	M
+
+
+
+Network Design Principles:
+
+Fit for Purpose	, Must meet all mandatory requirements defined by <org>
+Modularity, Design should be modular, where functionality is grouped into discrete self-contained groups
+Security, Must be designed with security as a core principal (see Security Section 7 for more detailed requirements / guidelines)
+Scalability, Design should easily Scale to meet <org> Project Growth 
+High Availability, Design should minimize fault domains, and have no single point of failure
+Redundancy, All critical network components or services should have active secondary or dual active primary systems
+
+Security Design Principles
+
+Least Privilege	,All accounts will be configured with the minimum privilege required to operate
+Segregation of Duties,	Network operation functions will be divided to minimize attack expose
+Defence of Depth,	Multilayer security approach
+Accountability,	All network devices will log all impacting transactions
+Availability,	Network Security Architecture should be design with no single point of failure
+Simplicity,	Network Security Architecture should be simple
+Reuse,	Network Security Architecture components should be easily reused when possible
+Minimise Attack Surface,	Network Devices should reduce any attack vector to a minimum, and the limit possible data breach
+Compartmentalisation,	Unrelated systems should be logically separated by function and security risk profile (partition failure domains)
+Fail Securely,	All network devices should automatically transition into a more secure state in the event of a failure
+Secure Default,	Default or initial configuration settings should be set to the most secure
+Do Not Trust Services,	When possible do not trust service accounts or other automated systems
+
