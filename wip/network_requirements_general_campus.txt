@@ -11,7 +11,7 @@ B.008	Capable of providing appropriate network bandwidth to meet business IP (In
 B.009	Capable of providing appropriate network transport to all <org> services and applications	M
 B.010	Capable of providing appropriate network access to high, and very high density user areas	M
 B.011	Capable of providing ubiquitous, and reliable voice and video transport across the entire campus network footprint	M
-B.012	Capable of allowing <org> users to ‘Work From Anywhere’ and Belong Anywhere within the work spaces	M
+B.012	Capable of allowing <org> users to work from anywhere within the work spaces	M
 B.013	Capable of providing priority network transport based on table three (3)	M
 B.014	Wi-Fi data shall be used to gain insight into real-time end-user behavior while within Wireless Network coverage	M
 B.015	No Satellite Locations Shall Support more than three thousand (3000) users	M
