@@ -1,5 +1,5 @@
 name: OND
 markdown: kramdown
 auto: true
-pygments: true
+highlighter: rouge
 baseurl: http://opennetworkdesign.com/
