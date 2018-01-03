@@ -96,6 +96,15 @@ $ git clone https://github.com/podomere/ond.git
   ga('create', 'UA-41099730-3', 'auto');
   ga('send', 'pageview');
 
+  $.getJSON('https://api.github.com/repos/podomere/ond/stats/contributors', function(data) {
+    number = data[0]["total"];
+    img_src = "https://img.shields.io/badge/Commits-"+number+"-blue.svg?maxAge=86400&logo=github";
+    commit_div = document.getElementById('github-commits');
+    if (commit_div !== null) {
+      document.getElementById('github-commits').innerHTML += '<a href="https://github.com/podomere/ond"><img src='+img_src+'></a>';
+    }
+  });
+
 </script>
     
 
