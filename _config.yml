@@ -2,4 +2,4 @@ name: OND
 markdown: kramdown
 auto: true
 highlighter: rouge
-baseurl: http://opennetworkdesign.com/
+baseurl: https://opennetworkdesign.com/
