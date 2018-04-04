@@ -23,8 +23,8 @@ author: Donal O Duibhir, 2014, @irldexter @donalod
 
 # License
 
-* [http://opennetworkdesign.com/LICENSE.html](http://opennetworkdesign.com/LICENSE.html)
+* [https://opennetworkdesign.com/LICENSE.html](https://opennetworkdesign.com/LICENSE.html)
 
 # Readme
 
-* [http://opennetworkdesign.com/README.html](http://opennetworkdesign.com/README.html)
+* [https://opennetworkdesign.com/README.html](https://opennetworkdesign.com/README.html)

@@ -13,9 +13,9 @@ type: info
 
 This is a project to help individuals and organisations quickly design and build data networks. You may notice that business requirements, technical requirements, solution architectures, high level designs, low level designs, and 'as built' guides (to name a few) can be stripped down, remixed, and re-built with a focus on practicality, education, and 'getting things done'. These design documents can be a mix of or even a subset of any of the traditional discrete design, project, or configuration artefacts, in fact, they can be the traditional ones too as long as the author has the authority to put them in to the Public Domain and they're in the correct formats.
 
-Designs should focus on known good patterns and seek to facilitate decision making in relation to design choices, purchasing, and implementation considerations (including the actual configurations and code where possible). With this more open and flexible approach, artefacts can then be fully modularised and repurposed as micro documents (facilitating collaborative _microlithic_ enhancements rather than _monolithic_ rewrites). Perhaps one could also conceptualise this project as distrbuted Design Code Management for a layer above [RFCs(Request For Comments)](http://www.ietf.org/rfc.html) similar to [BCPs(Best Current Practices)](http://en.wikipedia.org/wiki/Best_current_practice) only with more holistic and practical guides.
+Designs should focus on known good patterns and seek to facilitate decision making in relation to design choices, purchasing, and implementation considerations (including the actual configurations and code where possible). With this more open and flexible approach, artefacts can then be fully modularised and repurposed as micro documents (facilitating collaborative _microlithic_ enhancements rather than _monolithic_ rewrites). Perhaps one could also conceptualise this project as distrbuted Design Code Management for a layer above [RFCs(Request For Comments)](https://www.ietf.org/rfc.html) similar to [BCPs(Best Current Practices)](https://en.wikipedia.org/wiki/Best_current_practice) only with more holistic and practical guides.
 
-Rather than generate [ITIL](http://www.itil-officialsite.com/AboutITIL/WhatisITIL.aspx) shelfware or [OpenGroup TOGAF](http://www.opengroup.org/togaf/) frameworks we decided to pare things back to to help with decision making, building, testing, and getting things done… cheaper, faster, **and** more reliably.
+Rather than generate [ITIL](https://www.itil-officialsite.com/AboutITIL/WhatisITIL.aspx) shelfware or [OpenGroup TOGAF](https://www.opengroup.org/togaf/) frameworks we decided to pare things back to to help with decision making, building, testing, and getting things done… cheaper, faster, **and** more reliably.
 
 ## Why?
 
@@ -39,4 +39,4 @@ As always, please share, comment, contribute in a helpful manner where critiscis
 ## License 
 
 Please see the associated [LICENSE.html](LICENSE.html) file in this directory which outlines more about the CC0 1.0 Universal (CC0 1.0) 
-Public Domain Dedication [https://creativecommons.org/publicdomain/zero/1.0/](http://github.github.com/github-flavored-markdown/)
+Public Domain Dedication [https://creativecommons.org/publicdomain/zero/1.0/](https://github.github.com/github-flavored-markdown/)

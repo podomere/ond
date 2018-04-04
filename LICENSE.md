@@ -12,7 +12,7 @@ description: Open Network Design License putting all works in the Public Domain
 ## Overview and Rationale
 
 We want to do for network design and implementation what **FLOSS** 
-[http://en.wikipedia.org/wiki/Alternative_terms_for_free_software](http://en.wikipedia.org/wiki/Alternative_terms_for_free_software) has done for the software community.
+[https://en.wikipedia.org/wiki/Alternative_terms_for_free_software](https://en.wikipedia.org/wiki/Alternative_terms_for_free_software) has done for the software community.
 
 This CC0 license applies recursively from this root node down through all forms of 
 content. Henceforthwith all content, data, and information that can be and is 

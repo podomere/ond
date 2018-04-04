@@ -15,7 +15,7 @@ Repository for FLOSS network, systems, and infrastructure related designs.
 
 ## Markdown and Image Formats
 
-Please use basic markdown (including GFM(Github Flavoured Markdown) [http://github.github.com/github-flavored-markdown/](http://github.github.com/github-flavored-markdown/) and a minimum of **both** an optimised for web image such as .jpg / .png **and** its associated editable source file in .svg or .uml (or if all that is available then a .graffle or .vsd). Such that the file size limits on github apply in this repository please use simple shapes, lines, and text to keep your diagram file sizes under 10MiB. This will also have the byproduct of incentivising the removal of vendor bitmaps and colours on complex diagrams forcing the authors to rethink how to convey meaning in simple black and white. If you can not diagram with simple and standard shapes then perhaps you are not modelling for the widest audience possible (which is in fact a goal i.e. both technical and non-technical audiences).
+Please use basic markdown (including GFM(Github Flavoured Markdown) [https://github.github.com/github-flavored-markdown/](https://github.github.com/github-flavored-markdown/) and a minimum of **both** an optimised for web image such as .jpg / .png **and** its associated editable source file in .svg or .uml (or if all that is available then a .graffle or .vsd). Such that the file size limits on github apply in this repository please use simple shapes, lines, and text to keep your diagram file sizes under 10MiB. This will also have the byproduct of incentivising the removal of vendor bitmaps and colours on complex diagrams forcing the authors to rethink how to convey meaning in simple black and white. If you can not diagram with simple and standard shapes then perhaps you are not modelling for the widest audience possible (which is in fact a goal i.e. both technical and non-technical audiences).
 
 ## Dynamic Page Generation
 
@@ -40,8 +40,8 @@ As always, please share, comment, contribute in a helpful manner where critiscis
 ## License 
 
 Please see the associated [LICENSE.html](LICENSE.html) file in this directory which outlines more about the CC0 1.0 Universal (CC0 1.0) 
-Public Domain Dedication [https://creativecommons.org/publicdomain/zero/1.0/](http://github.github.com/github-flavored-markdown/)
+Public Domain Dedication [https://creativecommons.org/publicdomain/zero/1.0/](https://github.github.com/github-flavored-markdown/)
 
 ## Tips and Tricks
 
-Really enjoying writing mardown with an OSX application called Mou [http://mouapp.com/](http://mouapp.com/) yet unfortunately still finding it hard to move from Omnigraffle [http://www.omnigroup.com/omniGraffle](http://www.omnigroup.com/omniGraffle)
+Really enjoying writing mardown with an OSX application called Mou [https://mouapp.com/](https://mouapp.com/) yet unfortunately still finding it hard to move from Omnigraffle [https://www.omnigroup.com/omniGraffle](https://www.omnigroup.com/omniGraffle)
